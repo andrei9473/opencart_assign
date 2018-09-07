@@ -1,0 +1,19 @@
+new table sizes -> columns: product_id, size, amount
+table cart -> new column size
+table order_product -> new column size
+
+admin product_form
+admin product_controller
+catalog model product.php
+catalog controller product.php
+catalog controller category.php
+catalog view category.twig
+catalog view product.twig
+catolog controller/checkout/cart.php
+system library.cart.php
+catalog template checkout.twig
+catalog controller/common.cart.php
+catalog template/common/cart.twig
+catalog controller/checkout.cart.php
+catalog controller/checkout.confirm.php
+catalog model/checkout/order.php
